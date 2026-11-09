@@ -1,2 +1,2 @@
 # LESS-DATA-HUB
-Eddy Data Hub – Affordable mobile data bundles in Ghana.
+Less Data Hub – Affordable mobile data bundles in Ghana.
